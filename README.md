@@ -1,5 +1,5 @@
 # introdunction to backend development..(h1)
-## using mak down language (h2)
+## using mark down language (h2)
 ### headings (h3)
 **bold** with stars \
 __another method__ bold with underscore \
